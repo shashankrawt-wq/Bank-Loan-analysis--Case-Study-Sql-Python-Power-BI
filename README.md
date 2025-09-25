@@ -1,6 +1,6 @@
 ## Loan Analysis Case Study
 
-### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMWNhZDMyOGYtYzM5Zi00ZDBhLWJkYzktZTQ4OWNlOTAxOWU5IiwidCI6ImRhNWM1MDFjLTBhMjQtNDNmNy04MWRmLTViNDcyZjA3ZjI2OSJ9
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMWNhZDMyOGYtYzM5Zi00ZDBhLWJkYzktZTQ4OWNlOTAxOWU5IiwidCI6ImRhNWM1MDFjLTBhMjQtNDNmNy04MWRmLTViNDcyZjA3ZjI2OSJ9
 
 An end-to-end analytics project on consumer lending using Python, SQL, and Power BI. This project calculates portfolio and risk KPIs, performs segment analysis, and visualizes insights through an interactive dashboard. It’s designed to provide a clear overview of loan performance, credit quality, and trends across different segments.
 
