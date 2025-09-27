@@ -1,27 +1,71 @@
-## Loan Analysis Case Study
+# Consumer Lending Analytics Dashboard
 
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMWNhZDMyOGYtYzM5Zi00ZDBhLWJkYzktZTQ4OWNlOTAxOWU5IiwidCI6ImRhNWM1MDFjLTBhMjQtNDNmNy04MWRmLTViNDcyZjA3ZjI2OSJ9
+View Interactive Power BI Dashboard
 
-An end-to-end analytics project on consumer lending using Python, SQL, and Power BI. This project calculates portfolio and risk KPIs, performs segment analysis, and visualizes insights through an interactive dashboard. It’s designed to provide a clear overview of loan performance, credit quality, and trends across different segments.
+Project Overview
+This end-to-end analytics project explores consumer lending performance using Python, SQL, and Power BI. It provides a comprehensive view of loan portfolios, credit risk, and borrower behavior. Through automated KPI calculations, detailed SQL analysis, and an interactive Power BI dashboard, the project delivers actionable insights on loan trends and credit quality.
 
-Repository Highlights:
+Repository Highlights
+Python Notebook:
 
-Python Notebook: Loads and cleans data, calculates KPIs, and exports chart-ready CSVs for visualization.
+Loads and cleans raw data
 
-SQL Scripts: Reproduce KPI calculations, MTD/PMTD metrics, and detailed segment analyses.
+Calculates portfolio and risk KPIs
 
-Power BI Dashboard: Executive KPI cards, monthly trends, state-wise comparisons, term and employment length breakdowns, and home ownership & purpose visualizations. Interactive slicers make exploration flexible.
+Exports chart-ready CSVs for dashboard visualization
 
-Reports: Static summary of key metrics and visual insights for quick reference.
+SQL Scripts:
 
-Key Metrics & Insights:
+Reproduces KPI calculations
 
-Portfolio overview: Total Applications, Funded Amount, Amount Received, Avg Interest Rate, Avg DTI
+Computes month-to-date (MTD) and previous month-to-date (PMTD) metrics
 
-Credit Quality: Good vs Bad Loans (% and totals)
+Executes detailed segment analyses
 
-Period comparisons: Month-to-date (MTD) vs previous month-to-date (PMTD)
+Power BI Dashboard:
 
-Segment analysis: By Month, State, Term, Employment Length, Purpose, and Home Ownership
+Executive KPI cards for portfolio health
 
-Tech Stack: Python | SQL | Power BI 
+Monthly loan performance trends
+
+State-wise comparisons
+
+Term and employment length breakdowns
+
+Home ownership & loan purpose visualizations
+
+Interactive slicers for flexible exploration
+
+Reports:
+
+A static PDF summary of key insights
+
+Snapshot of essential metrics for quick reference
+
+Key Metrics & Insights
+Portfolio Overview: Total Applications, Funded Amount, Amount Received, Average Interest Rate, Average Debt-to-Income Ratio (DTI)
+
+Credit Quality: Good vs Bad Loan classification (volume & percentage)
+
+Period Comparisons: Month-to-Date (MTD) vs Previous Month-to-Date (PMTD) trends
+
+Segmentation Analysis:
+
+By Month
+
+By State
+
+By Loan Term
+
+By Employment Length
+
+By Loan Purpose
+
+By Home Ownership
+
+Tech Stack
+Python – Data cleaning, KPI calculations, CSV preparation
+
+SQL – Data querying, performance metrics, segment analysis
+
+Power BI – Interactive dashboard and visualization
