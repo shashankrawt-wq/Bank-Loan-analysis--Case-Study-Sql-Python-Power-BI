@@ -15,7 +15,6 @@ _Analyzing loan portfolio performance and credit risk to support strategic lendi
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
 
@@ -114,34 +113,6 @@ Key visualizations include:
 ![Loan Summary Dashboard](https://github.com/shashankrawt-wq/Bank-Loan-analysis--Case-Study-Sql-Python-Power-BI/blob/03a8e4f7ba4d4721e029bf8865533fd916a6b37d/Dashboard%20Images/Summary%20Dahboard.png)
 
 ---
-<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/bank-loan-case-study.git
-cd bank-loan-case-study
-```
-
-2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run data cleaning and preparation:**
-```bash
-python scripts/data_cleaning.py
-python scripts/kpi_calculator.py
-```
-
-4. **Execute SQL analysis:**
-- Run SQL scripts in `/sql/` folder against your database
-- Execute `loan_kpis.sql` for main KPI calculations
-- Run `segment_analysis.sql` for demographic breakdowns
-
-5. **Open Jupyter notebooks:**
-   - `notebooks/loan_data_analysis.ipynb` - Main analysis workflow
-   - `notebooks/kpi_calculations.ipynb` - KPI computation logic
-   - `notebooks/risk_segmentation_analysis.ipynb` - Segment deep-dives
 
 6. **View Power BI Dashboard:**
    - Open `dashboard/Bank_Loan_Case_Study_Dashboard.pbix`
