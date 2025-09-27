@@ -69,3 +69,6 @@ Python – Data cleaning, KPI calculations, CSV preparation
 SQL – Data querying, performance metrics, segment analysis
 
 Power BI – Interactive dashboard and visualization
+
+
+![image alt](https://github.com/shashankrawt-wq/Loan-analysis-Sql-Python-Power-BI/blob/38b1b093193136dd7952902e58cb444494b870dd/Dashboard%20Screeshots.pdf)
