@@ -1,6 +1,6 @@
 # Consumer Lending Analytics Dashboard
 
-View Interactive Power BI Dashboard
+[View Interactive Power BI Dashboard. Click Here](https://app.powerbi.com/view?r=eyJrIjoiMWNhZDMyOGYtYzM5Zi00ZDBhLWJkYzktZTQ4OWNlOTAxOWU5IiwidCI6ImRhNWM1MDFjLTBhMjQtNDNmNy04MWRmLTViNDcyZjA3ZjI2OSJ9)
 
 Project Overview
 This end-to-end analytics project explores consumer lending performance using Python, SQL, and Power BI. It provides a comprehensive view of loan portfolios, credit risk, and borrower behavior. Through automated KPI calculations, detailed SQL analysis, and an interactive Power BI dashboard, the project delivers actionable insights on loan trends and credit quality.
