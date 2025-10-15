@@ -109,8 +109,9 @@ Key visualizations include:
 - Employment length and loan purpose segmentation
 - Good vs bad loan performance comparison
 
-![Overview Dashboard](https://github.com/shashankrawt-wq/Bank-Loan-analysis--Case-Study-Sql-Python-Power-BI/blob/03a8e4f7ba4d4721e029bf8865533fd916a6b37d/Dashboard%20Images/Overview.png)
-![Loan Summary Dashboard](https://github.com/shashankrawt-wq/Bank-Loan-analysis--Case-Study-Sql-Python-Power-BI/blob/03a8e4f7ba4d4721e029bf8865533fd916a6b37d/Dashboard%20Images/Summary%20Dahboard.png)
+![Overview Dashboard](https://github.com/shashankrawt-wq/Bank-Loan-analysis--Case-Study-Sql-Python-Power-BI/blob/d609a76f3cb444930fb1d0548d5aaa6845e00743/Dashboard%20Images/Overview.png)
+![Loan Summary Dashboard](https://github.com/shashankrawt-wq/Bank-Loan-analysis--Case-Study-Sql-Python-Power-BI/blob/d609a76f3cb444930fb1d0548d5aaa6845e00743/Dashboard%20Images/Summary%20Dashboard.png)
+![Detailed View](https://github.com/shashankrawt-wq/Bank-Loan-analysis--Case-Study-Sql-Python-Power-BI/blob/d609a76f3cb444930fb1d0548d5aaa6845e00743/Dashboard%20Images/Detailed%20View.png)
 
 ---
 
